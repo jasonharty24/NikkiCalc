@@ -1,5 +1,5 @@
-## Interface: 90005
-## Version: 0.8
+## Interface: 90207
+## Version: 0.8.1
 ## Title: NikkiCalc
 ## Author: Nikkiknewl
 ## Notes: Calculate profits
