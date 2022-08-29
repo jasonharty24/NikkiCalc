@@ -1,0 +1,9 @@
+## Interface: 90005
+## Version: 0.8
+## Title: NikkiCalc
+## Author: Nikkiknewl
+## Notes: Calculate profits
+## DefaultState: enabled
+
+
+NikkiCalc.lua
